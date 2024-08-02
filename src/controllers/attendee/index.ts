@@ -1,0 +1,1 @@
+export {createAttendeeController} from './createAttendee';

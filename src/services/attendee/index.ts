@@ -1,0 +1,1 @@
+export {createAttendee} from './createAttendee';

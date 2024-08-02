@@ -1,0 +1,1 @@
+export {createAttendeeValidation} from './createAttendee';
